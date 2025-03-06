@@ -1,0 +1,28 @@
+.business-card {
+    width: 20%;
+    padding: 10px;
+    margin-bottom: 50px;
+    background-color:rgb(95, 154, 221) ;
+    border-radius: 5%;
+}
+
+.photo-placeholder {
+
+}
+
+.contact-info img {
+    width: 100px;
+    height: 100px;
+}
+
+.contact-info {
+    
+}
+
+.contact-info h2 {
+    
+}
+
+.contact-info p {
+    
+}
